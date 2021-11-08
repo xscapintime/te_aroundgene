@@ -1,9 +1,12 @@
 *.bed
 *.tsv
 *.gtf
-
+*.txt
 
 *.png
 *.pdf
 
 *.zip
+
+
+mm10.chrom.sizes
